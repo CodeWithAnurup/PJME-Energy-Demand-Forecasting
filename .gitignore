@@ -1,0 +1,18 @@
+# Jupyter & Checkpoints
+.ipynb_checkpoints/
+.virtual_documents/
+Untitled*.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.env
+.venv/
+env/
+venv/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
